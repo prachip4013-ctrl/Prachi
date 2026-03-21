@@ -45,4 +45,3 @@ print("a > 5 and b > 2 :", a > 5 and b > 2)
 # Logical OR
 print("a > 15 or b > 2 :", a > 15 or b > 2)
 
-# Output will be True for both based on the values above
