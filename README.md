@@ -45,7 +45,8 @@ print("a > 5 and b > 2 :", a > 5 and b > 2)
 # Logical OR
 print("a > 15 or b > 2 :", a > 15 or b > 2)
 
-output 
+output
+ 
 Integer value : 11
 Type : <class 'int'>
 
