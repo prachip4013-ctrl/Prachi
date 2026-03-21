@@ -1,52 +1,50 @@
 # Prachi
 Assignment 1 
-# Taking two numbers
-a = 15
-b = 5
-sum = a + b
-print("sum =", sum)
+Demonstrate basic date types in python 
 
-# Output: sum = 20
-# Declare variables
-a = 2         # integer
-b = 1.3       # float
-c = "Hello"   # string
+# Integer
+integer_value = 11
+print("Integer value :", integer_value)
+print("Type :", type(integer_value))
+print()
 
-# Display variables
-print("value of a :", a)
-print("value of b :", b)
-print("value of c :", c)
+# Float
+float_value = 11.9
+print("Float value :", float_value)
+print("Type :", type(float_value))
+print()
 
-# Display types of variables
-print("Type of a :", type(a))
-print("Type of b :", type(b))
-print("Type of c :", type(c))
-# Declare variables
-a = 10    # integer
-b = 6.7   # float
+# String
+string_value = "Hello Python"
+print("String value :", string_value)
+print("Type :", type(string_value))
+print()
 
-# Type casting
-x = float(a)  # int to float
-y = int(b)    # float to int
+# Boolean
+boolean_value = True
+print("Boolean value :", boolean_value)
+print("Type :", type(boolean_value))
+print()
 
-# Display result
-print("Original value of a :", a)
-print("Type :", type(a))
+# List
+list_value = [1, 2, 3, "Python", 5.5]
+print("List value :", list_value)
+print("Type :", type(list_value))
+print()
 
-print("After casting a to float :", x)
-print("Type :", type(x))
-# Declare variables
-a = 10
-b = 5
+# Tuple
+tuple_value = (1, 2, 3, "Data")
+print("Tuple value :", tuple_value)
+print("Type :", type(tuple_value))
+print()
 
-# Logical AND
-print("a > 5 and b > 2 :", a > 5 and b > 2)
+# Set
+set_value = {1, 2, 3, 4, 5}
+print("Set value :", set_value)
+print("Type :", type(set_value))
 
-# Logical OR
-print("a > 15 or b > 2 :", a > 15 or b > 2)
+OUTPUT 
 
-output
- 
 Integer value : 11
 Type : <class 'int'>
 
