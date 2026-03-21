@@ -45,3 +45,24 @@ print("a > 5 and b > 2 :", a > 5 and b > 2)
 # Logical OR
 print("a > 15 or b > 2 :", a > 15 or b > 2)
 
+output 
+Integer value : 11
+Type : <class 'int'>
+
+Float value : 11.9
+Type : <class 'float'>
+
+String value : Hello Python
+Type : <class 'str'>
+
+Boolean value : True
+Type : <class 'bool'>
+
+List value : [1, 2, 3, 'Python', 5.5]
+Type : <class 'list'>
+
+Tuple value : (1, 2, 3, 'Data')
+Type : <class 'tuple'>
+
+Set value : {1, 2, 3, 4, 5}
+Type : <class 'set'>
