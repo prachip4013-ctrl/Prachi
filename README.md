@@ -1,4 +1,4 @@
-# Prachi
+# Assignment 1
 Assignment 1 
 Demonstrate basic date types in python 
 
